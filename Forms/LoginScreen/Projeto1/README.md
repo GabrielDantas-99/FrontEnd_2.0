@@ -8,8 +8,13 @@ Funcionalidades
     - Validação de senha para garantir que a senha e a confirmação de senha sejam iguais e atendam os requisitos necessários.
 
 ## Telas do sistema:
-    !(Tela de Login)(https://github.com/GabrielDantas-99/FrontEnd_2.0/blob/main/Forms/LoginScreen/Projeto1/imgs/login_screen.png)
-    !(Tela de Registro)(https://github.com/GabrielDantas-99/FrontEnd_2.0/blob/main/Forms/LoginScreen/Projeto1/imgs/signup_screen.png)
+<div style="display:flex">
+    <img src="https://github.com/GabrielDantas-99/FrontEnd_2.0/blob/main/Forms/LoginScreen/Projeto1/imgs/login_screen.png" width="400" />
+    <img src="https://github.com/GabrielDantas-99/FrontEnd_2.0/blob/main/Forms/LoginScreen/Projeto1/imgs/signup_screen.png" width="400" />
+    <img src="https://github.com/GabrielDantas-99/FrontEnd_2.0/blob/main/Forms/LoginScreen/Projeto1/imgs/login_screen_mobile.png" width="400" />
+    <img src="https://github.com/GabrielDantas-99/FrontEnd_2.0/blob/main/Forms/LoginScreen/Projeto1/imgs/signup_screen_mobile.png" width="400" />
+</div>
+
 
 ## Instruções de Uso
 
